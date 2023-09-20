@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+## Intro
 ThingsBoard API client library for Dart developers. Provides model objects and services to communicate with ThingsBoard platform using RESTful APIs and WebSocket protocol.
 Current client version is compatible with ThingsBoard starting from version 3.5.0.
 
@@ -29,7 +29,8 @@ main() async {
     }
 }
 ```
-
+## Important Note
+- this is a repository based by the library [link to library](https://github.com/thingsboard/dart_thingsboard_client#readme) - library of ThingsBoard App
 ## Features and bugs
 
 Please file feature requests and bugs at the [issue tracker][tracker].
